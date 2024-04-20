@@ -2,9 +2,7 @@
 
 This is a simple extension that allows you to serialize and deserialize JSON objects in Visual Studio Code.
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+![JSON Serializer Demo](https://raw.githubusercontent.com/hipdev/json-serializer/main/src/JSON-serializer.gif)
 
 ## Extension Settings
 
@@ -18,8 +16,21 @@ Keybindings:
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
 Initial release
+
+## Author
+
+**Julián David**
+
+- GitHub: [@hipdev](https://github.com/hipdev)
+- Website: [julianux.com](https://julianux.com)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourgithub/json-serializer/issues).
+
+## Support
+
+If you like this project, give it a ⭐ and share it with friends!

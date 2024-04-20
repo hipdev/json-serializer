@@ -1,8 +1,9 @@
 {
   "name": "json-serializer",
   "displayName": "JSON Serializer",
-  "description": "Serialize and unserialize JSON",
+  "description": "Serialize and unserialize JSON files",
   "version": "1.0.0",
+  "publisher": "hipdev",
   "engines": {
     "vscode": "^1.88.0"
   },
