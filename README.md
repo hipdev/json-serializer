@@ -18,7 +18,11 @@ Keybindings:
 
 ### 1.0.0
 
-Initial release
+Initial release of JSON Serializer.
+
+### 1.1.0
+
+Add Github issues link
 
 ## Author
 
@@ -29,7 +33,7 @@ Initial release
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourgithub/json-serializer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/hipdev/json-serializer/issues).
 
 ## Support
 

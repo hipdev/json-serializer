@@ -2,8 +2,12 @@
   "name": "json-serializer",
   "displayName": "JSON Serializer",
   "description": "Serialize and unserialize JSON files",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "hipdev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hipdev/json-serializer"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },
