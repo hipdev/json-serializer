@@ -24,6 +24,10 @@ Initial release of JSON Serializer.
 
 Add Github issues link
 
+### 1.2.0
+
+Add Extension icon
+
 ## Author
 
 **Julián David**
