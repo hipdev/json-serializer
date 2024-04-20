@@ -2,7 +2,7 @@
   "name": "json-serializer",
   "displayName": "JSON Serializer",
   "description": "Serialize and unserialize JSON",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.88.0"
   },
